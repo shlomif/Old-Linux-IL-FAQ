@@ -1,0 +1,11 @@
+=encoding utf8
+
+=head1 The Old Linux-IL FAQ.
+
+This repository contains the old FAQ for the Linux-IL mailing list
+( L<http://www.iglu.org.il/mailing-lists/linux-il.html> ), which may not
+be of too much relevance nowadays, but is preserved here for propsperity.
+
+The C<gen_faq.pl> script is used to generate the FAQ.
+
+=cut
