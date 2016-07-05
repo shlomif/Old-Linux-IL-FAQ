@@ -24,7 +24,7 @@ while($line = <I>)
             $text = '';
         }
 
-        
+
         if ($line =~ /^S/)
         {
             $line =~ s!^S!!;
